@@ -1,15 +1,14 @@
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+baseurl: "/"
+url: "/" 
 title: "Tania Mota Fisioterapia Integrativa"
-email: "jefferson.maran@gmail.com"
-phone: "+5545999407719"
-address: "Endereço aqui"
-author: Test
-description: >- # this means to ignore newlines
+email: "maran.tania@gmail.com"
+phone: "+5545999483282"
+address: "Rua Bartolomeu de Gusmão, 1780 Vila Maracanã"
+author: Jefferson Maran
+description: >-
   Site Tania
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
-# contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 # mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
@@ -21,11 +20,11 @@ google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9
 ############### Call to Action ###############
 cta:
   enable: true
-  title: "dizer give the smart solution for your business"
+  title: "CTA para engajamento de clientes"
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
-    label: "get a quote"
-    link: "contact"
+    label: "Marque um horário agora"
+    link: "/cta"
 
 ################## Social site ###############
 social:
@@ -33,16 +32,13 @@ social:
     icon: "ti-facebook"
     link: "#"
 
-  - name: twitter
-    icon: "ti-twitter-alt"
+  - name: instagram
+    icon: "ti-instagram-alt"
     link: "#"
 
-  - name: linkedin
-    icon: "ti-linkedin"
-    link: "#"
 
-  - name: pinterest
-    icon: "ti-pinterest"
+  - name: google
+    icon: "ti-google"
     link: "#"
 
 # Build settings
