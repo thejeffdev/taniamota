@@ -3,28 +3,26 @@ main:
   - name: Início
     url: /
   - name: Sobre
-    url: "/about.html"
+    url: "/sobre-clinica-tania-mota-foz-do-iguacu.html"
   - name: Dicas
-    url: /blog-1.html
+    url: /dicas-de-fisioterapia-foz-do-iguacu.html
   - name: Terapias
-    url: /services.html
+    url: /terapias-rpg-pilates-liberacao-miofascial-foz.html
   - name: Contato
-    url: /contact.html
+    url: /tania-mota-fisioterapia-integrativa-telefone-whatsapp-foz.html
 
 ########## footer menu ###############
 footer:
-  - name: Services
-    url: /services.html
-  - name: Portfolio Two
-    url: /portfolio-2.html
-  - name: Single Portfolio
-    url: /portfolio-single.html
-  - name: Contact
-    url: /contact.html
+  - name: Terapias 
+    url: /terapias-rpg-pilates-liberacao-miofascial-foz.html
+  - name: Anuncios & Mídias
+    url: /promocional-google-whatsapp.html
+  - name: Whatsapp
+    url: /tania-mota-fisioterapia-integrativa-telefone-whatsapp-foz.html
 
 ############## Bottom menu ###############
 bottom:
-  - name: Terms of Service
+  - name: Termos de Serviço
     link: "#"
-  - name: Privacy Policy
+  - name: Politica de Privacidade
     link: "#"
