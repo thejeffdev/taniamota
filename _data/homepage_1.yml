@@ -2,7 +2,8 @@
 hero_area:
   background_image: "/assets/images/bg/banner-2.png"
   subtitle: "Equilibrio, saúde e movimento - A chave para uma vida sem dores"
-  title: "Prazer, <br /> TÂNIA MOTA"
+  title: "Prazer,"
+  title2: "TÂNIA MOTA"
   content: "Trabalhamos com foco em pilates, rpg, liberação miofascial na cidade de Foz do Iguaçu"
   image: "/assets/images/banner/taniamota-fisio-foz-pilates.png"
   button:
