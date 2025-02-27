@@ -24,22 +24,22 @@ cta:
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
     label: "Marque um horário agora"
-    link: "/cta"
+    link: "https://wa.me/+5545999483282"
 
 ################## Social site ###############
 social:
   - name: facebook
     icon: "ti-facebook"
-    link: "#"
+    link: "https://facebook.com/taniamotafisio"
 
   - name: instagram
-    icon: "ti-instagram-alt"
-    link: "#"
+    icon: "ti-instagram"
+    link: "https://instagram.com/taniamotafisio"
 
 
   - name: google
     icon: "ti-google"
-    link: "#"
+    link: "https://maps.app.goo.gl/CEF1V75epAs14x4B9"
 
 # Build settings
 permalink: "/:title"

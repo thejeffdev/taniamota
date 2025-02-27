@@ -1,9 +1,9 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image: "/assets/images/bg/banner-2.png"
-  subtitle: "Sou fisioterapeuta atuo com RPG | Pilates | Liberação Miofascial em Foz do Iguaçu."
-  title: "Meu nome é Tânia Mota"
-  content: "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  subtitle: "Equilibrio, saúde e movimento - A chave para uma vida sem dores"
+  title: "Prazer, <br /> TÂNIA MOTA"
+  content: "Trabalhamos com foco em pilates, rpg, liberação miofascial na cidade de Foz do Iguaçu"
   image: "/assets/images/banner/banner-img-2.png"
   button:
     enable: true
@@ -14,37 +14,42 @@ hero_area:
 services:
   - title: "RPG"
     icon: "ti-ruler-pencil"
-    content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content: "Reeducação Postural Global é uma técnica terapêutica que corrige desequilíbrios posturais, alivia dores e melhora a mobilidade corporal."
 
   - title: "Pilates"
     icon: "ti-announcement"
-    content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content: "Pilates é um método de exercícios que melhora força, flexibilidade, postura e equilíbrio através de movimentos controlados."
 
   - title: "Liberação Miofascial"
     icon: "ti-palette"
-    content: "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content: "Liberação miofascial é uma técnica manual que alivia tensões musculares, melhora a mobilidade e reduz dores."
 
 ########################### Testimonial ###########################
 testimonial:
   enable: true
-  title: "clients feedback"
-  subtitle: "testimonials"
+  title: "O que meus pacientes dizem:"
+  subtitle: "Depoimentos"
   bg_image: "/assets/images/bg/testimonial-bg.png"
   item:
-    - name: "Liam Hughes"
-      designation: "Manager"
+    - name: "Agness Walewinder"
+      designation: ""
       image: "/assets/images/team/test-1.jpg"
-      content: "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+      content: "Visitei a Tania junto com minha amiga Lydia e nós duas adoramos a experiência. 😍Tania tem um grande conhecimento do corpo humano e é profissional no que faz. 👍🏻 A massagem foi maravilhosa, durou mais de uma hora e a Tania foi muito precisa e diligente. Cheguei lá com dores nas costas e dores por causa do meu treino de Muay Thai e saí relaxado e bem cuidado. ❤️Tania usou as mãos para realmente pressionar os pontos do meu corpo que estavam doloridos e tensos me dando um grande alívio! Ela também usou sua arma muscular, ótimo material, recomendo. A sala de massagem era muito aconchegante, limpa e cheirava muito bem. 🌷🌸Gostei das vibrações, gostei da conversa com a Tania e anotei todos os comentários dela sobre como cuidar da minha postura. Espero poder voltar em breve! Obrigada, Tânia, por ser tão gentil, atenciosa e profissional! 🙏🏻"
 
-    - name: "Jane Austin"
-      designation: "Designer"
+    - name: "Jessica Dias"
+      designation: ""
       image: "/assets/images/team/test-2.jpg"
-      content: "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+      content: "O meu resultado no RPG foi muito bom, a minha postura melhorou e os meus movimentos também, sem falar que a Tânia é demais!!! 🤸🏽‍♀️🧘🏽‍♀️"
 
-    - name: "Liolane hussy"
-      designation: "Developer"
+    - name: "Natanaelen cristine bail kazienko"
+      designation: ""
       image: "/assets/images/team/test-3.jpg"
-      content: "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+      content: "Excelente profissional. Gostei muito do resultado. Minha postura melhorou bastante."
+
+    - name: "Nazaré Moreira"
+      designation: ""
+      image: "/assets/images/team/test-3.jpg"
+      content: "Fiz pilates muito tempo e a Tânia é dez : amiga, paciênte e ótima profissional!"
 
 ######################## Fun facts ########################
 funfacts:
