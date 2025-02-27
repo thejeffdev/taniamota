@@ -30,9 +30,9 @@
   &:active,
   &.focus,
   &.active {
+    color: $white !important;
     background: $secondary-color !important;
     border-color: $secondary-color !important;
-    color: $white !important;
   }
 }
 
