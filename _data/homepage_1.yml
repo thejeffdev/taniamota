@@ -4,11 +4,11 @@ hero_area:
   subtitle: "Equilibrio, saúde e movimento - A chave para uma vida sem dores"
   title: "Prazer, <br /> TÂNIA MOTA"
   content: "Trabalhamos com foco em pilates, rpg, liberação miofascial na cidade de Foz do Iguaçu"
-  image: "/assets/images/banner/banner-img-2.png"
+  image: "/assets/images/banner/taniamota-fisio-foz-pilates.png"
   button:
     enable: true
     label: "Fale comigo"
-    link: "/contact"
+    link: "https://wa.me/+5545999483282"
 
 ########################### Service ##############################
 services:
