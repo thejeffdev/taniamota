@@ -1,7 +1,7 @@
 baseurl: "/"
 url: "/" 
 title: "Tania Mota Fisioterapia Integrativa"
-email: "maran.tania@gmail.com"
+email: "contato@taniamota.com.br"
 phone: "+5545999483282"
 address: "Rua Bartolomeu de Gusmão, 1780 Vila Maracanã"
 author: Jefferson Maran
@@ -20,7 +20,7 @@ google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9
 ############### Call to Action ###############
 cta:
   enable: true
-  title: "CTA para engajamento de clientes"
+  title: "Marque um horário para pilates, rpg ou liberação miofascial"
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
     label: "Marque um horário agora"
