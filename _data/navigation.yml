@@ -3,22 +3,29 @@ main:
   - name: Início
     url: /
   - name: Sobre
-    url: "/sobre-clinica-tania-mota-foz-do-iguacu.html"
+    url: "#"
+    # url: "/sobre-clinica-tania-mota-foz-do-iguacu.html"
   - name: Dicas
-    url: /dicas-de-fisioterapia-foz-do-iguacu.html
+    url: "#"
+    # url: /dicas-de-fisioterapia-foz-do-iguacu.html
   - name: Terapias
-    url: /terapias-rpg-pilates-liberacao-miofascial-foz.html
+    url: "#"
+    # url: /terapias-rpg-pilates-liberacao-miofascial-foz.html
   - name: Contato
-    url: /tania-mota-fisioterapia-integrativa-telefone-whatsapp-foz.html
+    url: "https://contato.taniamota.com.br"
+    # url: /tania-mota-fisioterapia-integrativa-telefone-whatsapp-foz.html
 
 ########## footer menu ###############
 footer:
   - name: Terapias 
-    url: /terapias-rpg-pilates-liberacao-miofascial-foz.html
+    url: "#"
+    #url: /terapias-rpg-pilates-liberacao-miofascial-foz.html
   - name: Anuncios & Mídias
-    url: /promocional-google-whatsapp.html
+    url: "#"
+    #url: /promocional-google-whatsapp.html
   - name: Whatsapp
-    url: /tania-mota-fisioterapia-integrativa-telefone-whatsapp-foz.html
+    url: "htpps://contato.taniamota.com.br"
+    #url: /tania-mota-fisioterapia-integrativa-telefone-whatsapp-foz.html
 
 ############## Bottom menu ###############
 bottom:
