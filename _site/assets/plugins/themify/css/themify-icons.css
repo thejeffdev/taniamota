@@ -1079,3 +1079,39 @@
 .ti-rss-alt:before {
 	content: "\e75f";
 }
+
+.ti-fisio{
+	content:url('./../../../images/icons/fisioterapia.png');
+	width: 6rem;
+	height: auto;
+}
+
+.ti-pilates{
+	content:url('./../../../images/icons/pilates.png');
+	width: 6rem;
+	height: auto;
+}
+
+.ti-pilates-ball{
+	content:url('./../../../images/icons/pilates_bola.png');
+	width: 6rem;
+	height: auto;
+}
+
+.ti-rpg{
+	content:url('./../../../images/icons/rpg.png');
+	width: 6rem;
+	height: auto;
+}
+
+.ti-backbone{
+	content:url('./../../../images/icons/coluna-vertebral.png');
+	width: 6rem;
+	height: auto;
+}
+
+.ti-backache{
+	content:url('./../../../images/icons/dor-nas-costas.png');
+	width: 6rem;
+	height: auto;
+}
